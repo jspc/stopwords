@@ -1,2 +1,3 @@
 stopwords
 *.csv
+!testdata/input.csv
